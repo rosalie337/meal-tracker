@@ -1,6 +1,8 @@
 LAB: Express
 Build a recipe storage application. It should let you create new recipes, get a recipe by id, get all recipes, update a recipe by id, and delete a recipe by id.
 
+[Flowchart for Meal-Tracker](flowchart.jpeg)
+
 Before you begin
 Refer to Getting Started in the lab submission instructions for complete setup, configuration, deployment, and submission instructions.
 
